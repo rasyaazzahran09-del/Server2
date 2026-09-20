@@ -2,7 +2,7 @@
   "_CARA_PAKAI_1": "kepo lu",
   "_CARA_PAKAI_2": "kepo lu",
   "_PRIORITAS": "Urutan pemakaian domain: 1) GitHub config (kalau USE_GITHUB_CONFIG=true & berhasil diambil) 2) DOMAIN tersimpan di browser (hasil tekan tombol SAMBUNG) 3) SERVER_URL di file config.json ini",
-  "SERVER_URL": "http://panel.pterodactyl.cloud/:4861",
+  "SERVER_URL": "http://panel.pterodactyl.cloud:4861",
   "USE_GITHUB_CONFIG": true,
   "GITHUB_CONFIG_URL": "https://raw.githubusercontent.com/rasyaazzahran09-del/Server 2/main/config.json",
   "BOT_NAME": "Web2Apk Pro Bot Gen10"
